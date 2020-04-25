@@ -1,6 +1,6 @@
 # [_Robofriends_](https://nguyenmarvin8.github.io/Robofriends/)
-
-Robofriends App is a **REACT APP** built using create-react-app. This is a fully functional web application that allows you to search between different randomly API generated robot names and appearances. It is fully functional and responsive to various screen sizes. 
+ 
+Robofriends App is a **REACT APP** built using create-react-app. This is a fully functional web application that allows users to search between different randomly API generated robot names and appearances. It is fully functional and responsive to various screen sizes. Technologies used in this application were HTML5, CSS3, React.js along with RoboHash's API.
 
 **View Repository**: [**Robofriends**](https://github.com/nguyenmarvin8/Robofriends)
 
